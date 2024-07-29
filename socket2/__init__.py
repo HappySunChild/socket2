@@ -1,2 +1,2 @@
-from .classes.websocket import WebsocketClient
+from .classes.websocket import WebsocketClient, WebsocketServer
 from .classes.response import WebsocketResponse
